@@ -1,0 +1,18 @@
+# Core Libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Optional (if you use Jupyter Notebooks)
+notebook
+jupyterlab
+
+# Optional (for advanced ML experiments)
+xgboost
